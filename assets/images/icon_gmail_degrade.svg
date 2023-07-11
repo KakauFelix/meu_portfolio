@@ -1,0 +1,14 @@
+<svg width="50" height="40" viewBox="0 0 50 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="mdi:gmail" clip-path="url(#clip0_30_282)">
+<path id="Vector" d="M45 35H40V13.125L25 22.5L10 13.125V35H5V5H8L25 15.625L42 5H45M45 0H5C2.225 0 0 2.225 0 5V35C0 36.3261 0.526784 37.5979 1.46447 38.5355C2.40215 39.4732 3.67392 40 5 40H45C46.3261 40 47.5979 39.4732 48.5355 38.5355C49.4732 37.5979 50 36.3261 50 35V5C50 3.67392 49.4732 2.40215 48.5355 1.46447C47.5979 0.526784 46.3261 0 45 0Z" fill="url(#paint0_linear_30_282)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_30_282" x1="-10.5" y1="20" x2="50" y2="20" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6A28EB"/>
+<stop offset="1" stop-color="#3494E6"/>
+</linearGradient>
+<clipPath id="clip0_30_282">
+<rect width="50" height="40" fill="white"/>
+</clipPath>
+</defs>
+</svg>
