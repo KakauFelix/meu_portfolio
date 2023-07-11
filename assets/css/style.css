@@ -790,20 +790,20 @@ footer span {
         z-index: 12;
         display: flex;
         flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        /* padding: 100px; */
+        /* align-items: center;
+        justify-content: center; */
+        padding: 100px;
         overflow: hidden;
     }
 
     .msg_error_406 span{
-        font-size: 65px;
+        font-size: 30px;
         height:fit-content;
         overflow: hidden;
     }
 
     .msg_error_406 img{
-        width: 80%;
+        width: 250px;
     }
 } 
 
