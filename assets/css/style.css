@@ -781,24 +781,32 @@ footer span {
 }
 
 @media(max-width: 1150px){
+    body{
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+        background-color: #6A28EB;
+        backdrop-filter: blur(50px);
+    }
+
     .msg_error_406{
-        width: 100%;
-        height: 100%;
+        width: 100vw;
+        height: 100vh;
         background-color: #6A28EB;
         position: fixed;
         top: 0;
         z-index: 12;
         display: flex;
         flex-direction: column;
-        /* align-items: center;
-        justify-content: center; */
-        padding: 100px;
+        align-items: center;
+        justify-content: center;
+        /* padding: 100px; */
         overflow: hidden;
     }
 
     .msg_error_406 span{
-        font-size: 30px;
-        height:fit-content;
+        font-size: 100%;
+        /* height:fit-content; */
         overflow: hidden;
     }
 
@@ -806,6 +814,4 @@ footer span {
         width: 250px;
     }
 } 
-
-
   
